@@ -1,4 +1,5 @@
 import { createApp } from 'vue'
+import ActiveUser from 'ActiveUser.vue'
 
 createApp({}).mount('#app')
 
